@@ -67,7 +67,6 @@ namespace _02_Variables
 
             #endregion
 
-
             #region Char Değişkenler
 
             //ABCDEFGH...
@@ -81,7 +80,6 @@ namespace _02_Variables
             //Console.WriteLine(symbol);
 
             #endregion
-
 
             #region Klavyeden Veri Girişleri - String Değişkenler
 
@@ -115,7 +113,6 @@ namespace _02_Variables
 
             #endregion
 
-
             #region Klavyeden Tam Sayı Girişleri ve Dönüşümler
 
             //ABC12D
@@ -148,7 +145,6 @@ namespace _02_Variables
 
             #endregion
 
-
             #region Klavyeden Ondalıklı Sayı İşlemleri
 
             //double exam1, exam2, exam3, result;
@@ -169,7 +165,6 @@ namespace _02_Variables
             //Console.WriteLine("Sınav Ortalamanız: " + result);
 
             #endregion
-
 
             #region Klavyeden Karakter Girişleri
 
